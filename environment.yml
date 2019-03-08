@@ -1,5 +1,5 @@
 # conda env create|update --file environment.yml
-name: data-fish
+name: my_voice_predictor
 dependencies:
 - python=3.6
 - pip
